@@ -67,11 +67,15 @@
 
 [ChatGPT: Applications, Opportunities, and Threats](https://arxiv.org/abs/2304.09103)
 
+[ChatGPT as a Text Simplification Tool to Remove Bias](https://arxiv.org/pdf/2305.06166)
+
 [ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning](https://arxiv.org/abs/2304.05613)
 
 [ChatGPT Evaluation on Sentence Level Relations: A Focus on Temporal, Causal, and Discourse Relations](https://arxiv.org/abs/2304.14827)
 
 [ChatGPT vs State-of-the-Art Models: A Benchmarking Study in Keyphrase Generation Task](https://arxiv.org/abs/2304.14177)
+
+[ChatGraph: Interpretable Text Classification by Converting ChatGPT Knowledge to Graphs](https://arxiv.org/pdf/2305.03513.pdf)
 
 [Chinese Open Instruction Generalist: A Preliminary Release](https://arxiv.org/abs/2304.07987)
 
@@ -124,6 +128,8 @@
 
 [Linguistic ambiguity analysis in ChatGPT](https://arxiv.org/abs/2302.06426)
 
+[No More Manual Tests? Evaluating and Improving ChatGPT for Unit Test Generation](https://arxiv.org/pdf/2305.04207.pdf)
+
 [Questions of science: chatting with ChatGPT about complex systems](https://arxiv.org/abs/2303.16870)
 
 [Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models](https://arxiv.org/abs/2304.01852)
@@ -132,8 +138,11 @@
 
 [Tool Learning with Foundation Models](https://arxiv.org/abs/2304.08354)
 
+[Using ChatGPT for Entity Matching](https://arxiv.org/pdf/2305.03423)
 
 [Using Multiple RDF Knowledge Graphs for Enriching ChatGPT Responses](https://arxiv.org/abs/2304.05774)
+
+[VicunaNER: Zero/Few-shot Named Entity Recognition using Vicuna](https://arxiv.org/pdf/2305.03253)
 
 [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset for Audio-Language Multimodal Research](https://arxiv.org/abs/2303.17395)
 
